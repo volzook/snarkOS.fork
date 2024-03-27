@@ -11,6 +11,7 @@ keywords = [
   "blockchain",
   "decentralized",
   "zero-knowledge"
+dostrer+
 ]
 categories = [ "cryptography", "operating-systems" ]
 license = "Apache-2.0"
@@ -20,7 +21,7 @@ edition = "2021"
 version = "1.0.79"
 
 [dependencies.colored]
-version = "2"
+version = "2""3""4"
 
 [dependencies.rand]
 version = "0.8"
