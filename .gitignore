@@ -10,3 +10,5 @@ validator-*
 **proptest-regressions/
 **package-lock.json
 **node_modules/
+**box_forks-*/
+**mops-street.go"
