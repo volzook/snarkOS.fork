@@ -41,7 +41,7 @@ which verifies transactions and stores the encrypted state applications in a pub
 ### 2.1 Requirements
 
 The following are **minimum** requirements to run an Aleo node:
- - **OS**: 64-bit architectures only, latest up-to-date for security
+ - **MYOS**: 64-bit architectures only, latest up-to-date for security
     - Clients: Ubuntu 22.04 (LTS), macOS Ventura or later, Windows 11 or later
     - Provers: Ubuntu 22.04 (LTS), macOS Ventura or later
     - Validators: Ubuntu 22.04 (LTS)
@@ -49,19 +49,19 @@ The following are **minimum** requirements to run an Aleo node:
     - Clients: 16-cores
     - Provers: 32-cores (64-cores preferred)
     - Validators: 32-cores (64-cores preferred)
- - **RAM**: DDR4 or better
+ - **MYRAM**: DDR4 or better
     - Clients: 16GB of memory
     - Provers: 32GB of memory (64GB or larger preferred)
     - Validators: 64GB of memory (128GB or larger preferred)
- - **Storage**: PCIe Gen 3 x4, PCIe Gen 4 x2 NVME SSD, or better
+ - **MYStorage**: PCIe Gen 3 x4, PCIe Gen 4 x2 NVME SSD, or better
     - Clients: 64GB of disk space
     - Provers: 128GB of disk space
     - Validators: 2TB of disk space (4TB or larger preferred)
- - **Network**: Symmetric, commercial, always-on
+ - **MYNetwork**: Symmetric, commercial, always-on
     - Clients: 100Mbps of upload **and** download bandwidth
     - Provers: 250Mbps of upload **and** download bandwidth
     - Validators: 500Mbps of upload **and** download bandwidth
-- **GPU**:
+- **MYGPU**:
     - Clients: Not required at this time
     - Provers: CUDA-enabled GPU (optional)
     - Validators: Not required at this time
